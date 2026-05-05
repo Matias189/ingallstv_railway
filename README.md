@@ -1,2 +1,1 @@
-IngallsTV
-https://ingallstv-production.up.railway.app
+IngallsTV: https://ingallstv-production.up.railway.app
